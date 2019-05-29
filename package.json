@@ -1,0 +1,11 @@
+{
+  "name": "feboat",
+  "version": "1.0.0",
+  "description": "Fast Electric radio controlled boat store",
+  "main": "feboat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pete Jansz",
+  "license": "ISC"
+}
